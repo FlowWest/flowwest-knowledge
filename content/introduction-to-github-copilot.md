@@ -129,8 +129,6 @@ GitHub Copilot is only as good as the data it's trained on. So while GitHub Copi
 
 ## Copilot Plan Comparison
 
-
-
 **Prompt:** For a small team of 12 developers is co-pilot individual or business the best option?
 
 **Response: (Written with Google Gemini)**
